@@ -73,8 +73,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or feedback, please contact me at:
 
 - **Email**: amanrai1445@gmail.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **GitHub**: [AmanRai145](https://github.com/AmanRai145)
 
 ---
-
-Feel free to modify this template to fit your specific project details and personal preferences.
