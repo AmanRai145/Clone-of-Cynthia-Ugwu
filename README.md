@@ -28,9 +28,6 @@ The Cynthia Ugwu Clone project is a frontend application built to practice and d
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **React** (or the specific framework/library you used)
-- **Vite** (if applicable)
-- **GSAP** (if applicable)
 
 ## Installation
 
@@ -38,7 +35,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/cynthia-ugwu-clone.git
+   git clone https://github.com/AmanRai145/cynthia-ugwu-clone.git
    cd cynthia-ugwu-clone
    ```
 
@@ -75,7 +72,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, please contact me at:
 
-- **Email**: your.email@example.com
+- **Email**: amanrai1445@gmail.com
 - **GitHub**: [yourusername](https://github.com/yourusername)
 
 ---
