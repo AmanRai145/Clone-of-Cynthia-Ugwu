@@ -35,7 +35,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/AmanRai145/cynthia-ugwu-clone.git
+   git clone https://github.com/AmanRai145/Clone-of-Cynthia-Ugwu.git
    cd cynthia-ugwu-clone
    ```
 
