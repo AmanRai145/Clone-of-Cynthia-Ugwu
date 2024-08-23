@@ -22,7 +22,6 @@ The Cynthia Ugwu Clone project is a frontend application built to practice and d
 - **Responsive Design**: Adapts to various screen sizes.
 - **Modern UI/UX**: Replicates the aesthetics and functionality of the original site.
 - **Interactive Elements**: Includes interactive components such as navigation menus and forms.
-
 ## Technologies Used
 
 - **HTML5**
