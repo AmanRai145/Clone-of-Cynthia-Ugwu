@@ -53,16 +53,7 @@ To run this project locally, follow these steps:
 
 After completing the installation steps, you can access the project in your browser by navigating to `http://localhost:3000` (or the port specified in your development server).
 
-## Contributing
 
-Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
-
-
-2. Create a new branch (`git checkout -b feature-branch`).
-
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a pull request.
 
 ## Contact
 
