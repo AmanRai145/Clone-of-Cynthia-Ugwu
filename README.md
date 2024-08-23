@@ -57,7 +57,7 @@ After completing the installation steps, you can access the project in your brow
 
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
 
-1. Fork the repository.
+
 2. Create a new branch (`git checkout -b feature-branch`).
 3. Make your changes.
 4. Commit your changes (`git commit -m 'Add some feature'`).
