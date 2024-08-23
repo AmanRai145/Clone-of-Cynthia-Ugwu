@@ -48,6 +48,7 @@ To run this project locally, follow these steps:
    npm run dev
    ```
 
+
 ## Usage
 
 After completing the installation steps, you can access the project in your browser by navigating to `http://localhost:3000` (or the port specified in your development server).
